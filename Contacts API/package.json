@@ -1,5 +1,5 @@
 {
-  "name": "serveur-minimale",
+  "name": "server",
   "type": "module",
   "engines": {
     "node": "16.14.2"
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ContactsService.js"
   },
-  "author": "Nicolas Chourot",
+  "author": "Lucas Romanias",
   "license": "ISC",
   "dependencies": {
     "query-string": "^8.1.0"
